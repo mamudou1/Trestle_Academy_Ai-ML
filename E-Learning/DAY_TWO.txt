@@ -1,0 +1,38 @@
+ttps://padlet.com/
+earth station 
+labxchange
+
+https://v2.sherpa.ac.uk/id/repository/1649?template=opendoar
+proQuest e_book
+
+list of databases
+step_1
+pubmed 
+web of science 
+eric
+proquest
+scopus 
+
+step_2
+ebsco
+willey
+jstor
+sciencedirect
+
+individual
+baron = 2
+baroness = 1
+gateman = 5
+boatman = 6
+friend = 4
+lover = 3
+
+group 
+baron= 3 
+baroness = 1
+gatema =
+boatman =
+friend =
+lover = 2
+
+

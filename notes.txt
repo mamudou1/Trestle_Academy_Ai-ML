@@ -1,0 +1,47 @@
+[24/06 10:16] DOMINICA AMANFOMaterials to prepare you for Thursday
+    
+You can checkout any of these. This is not compulsory, but will help you follow Thursday's class.
+
+
+1. Raw data preprocessing:
+    - [Data Cleaning with Python and Pandas](https://realpython.com/python-data-cleaning-numpy-pandas/)
+    - [Data Preprocessing with Numpy](https://numpy.org/doc/stable/user/quickstart.html)
+
+
+2. Handling data imbalance:
+    - [Handling Imbalanced Datasets in Machine Learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
+    - [Dealing with Imbalanced Data](https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets)
+
+
+3. Supervised learning:
+    - [Scikit-Learn Supervised Learning](https://scikit-learn.org/stable/supervised_learning.html)
+    - [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+
+
+4. Random Forest classifier:
+    - [Random Forests in Python](https://towardsdatascience.com/random-forests-in-python-24d0893d51c0)
+    - [Scikit-Learn RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+
+
+5. Gini impurity:
+    - [Gini Impurity Explained](https://victorzhou.com/blog/gini-impurity/)
+    - [Decision Trees: Gini Impurity](https://medium.com/@rishit.dagli/decision-trees-gini-impurity-a2fa2f83e24a)
+
+
+6. How decision trees work:
+    - [How Decision Trees Work](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
+    - [A Visual Introduction to Machine Learning, Part 1: A Decision Tree](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+
+7. Evaluation metrics:
+    - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)
+    - [Scikit-Learn: Metrics and Scoring](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+
+8. For Visualization:
+    - [Matplotlib: Python Plotting](https://matplotlib.org/stable/users/index.html)
+    - [Seaborn: Statistical Data Visualization](https://seaborn.pydata.org/tutorial.html)
+
+
+
+
